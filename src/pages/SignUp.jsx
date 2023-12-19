@@ -28,7 +28,7 @@ function SignUp() {
             <div className="pageContainer">
                 <header>
                     <p className="pageHeader">
-                        Welcome Back!
+                        Create an account
                     </p>
                 </header>
 
