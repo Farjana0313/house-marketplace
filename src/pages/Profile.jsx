@@ -25,7 +25,6 @@ function Profile() {
       <header className="profileHeader">
         <p className="pageHeader">My Profile</p>
         <button className="logOut" type="button" onClick={onLogOut}>Logout</button>
-        <p>Test</p>
       </header>
     </div>
   )
